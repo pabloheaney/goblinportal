@@ -1,0 +1,14 @@
+[
+  {
+    "description": "官方交流群",
+    "link": "https://t.me/example_group_1"
+  },
+  {
+    "description": "VIP 會員群",
+    "link": "https://t.me/example_group_2"
+  },
+  {
+    "description": "技術支援頻道",
+    "link": "https://t.me/example_channel"
+  }
+]
